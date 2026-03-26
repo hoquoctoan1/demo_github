@@ -1,0 +1,15 @@
+update
+tạo 1 github repository
+clone projeck
+viết code
+"git status" kiểm tra trạng thái file ( new old)
+"git add ." thêm file
+"git commit -m "your meesage""
+"git push origin main"
+đẩy lên
+"git init"
+"git status"
+"git add ."
+"git commit -m " massage""
+"git ... past"
+"git push origin master"
